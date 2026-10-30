@@ -1,0 +1,7 @@
+LAPORAN ANALISIS NILAI MATEMATIKA
+Jumlah siswa: 2
+Rata-rata: 81.5
+Nilai minimum: 78
+Nilai maksimum: 85
+Jumlah siswa tuntas: 2
+Jumlah siswa belum tuntas: 0

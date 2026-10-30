@@ -1,0 +1,3 @@
+Ayu,85
+Budi,78
+Citra,abc
